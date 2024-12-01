@@ -47,3 +47,4 @@ next-env.d.ts
 .vs/roast-bot/v16/.suo
 .vs/slnx.sqlite
 .vs/roast-bot/v16/.suo
+.env
